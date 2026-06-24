@@ -26,6 +26,20 @@ The **Foodie Delivery** web application is a demonstration project designed to s
 ### Menu Page
 ![Menu Screenshot](menu.png)
 
+## 📌 Note
+⚠️ This is **only a demo frontend project**.  
+No backend integration or real data is included.
 
+---
+
+## 🤝 Contributing
+This project is currently **frontend-only**.  
+If you’d like to contribute, here are some ideas:
+- Add backend integration (Node.js, Express, Django, etc.)  
+- Connect to a database for user authentication and product storage  
+- Implement APIs for product listings, sign-in, and sign-up flows  
+- Enhance animations and add real cybernetic product data  
+
+Pull requests are welcome! Please open an issue first to discuss what you’d like to add.
 
 
